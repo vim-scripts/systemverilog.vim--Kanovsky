@@ -1,5 +1,10 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=4743
 
+This script is maintained on github at:
+https://github.com/nachumk/systemverilog.vim
+
+Installation instructions for Pathogen can be found here: https://github.com/nachumk/systemverilog.vim#pathogen-install.
+
 These scripts indent and highlight SystemVerilog. It is set to load for Verilog and SystemVerilog files.
 
  Comments are not touched! No indent is done on comments at all. Don't attempt to comment in the middle of a block comment, it won't know that it is a comment and therefore it will attempt to indent.
